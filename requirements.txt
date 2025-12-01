@@ -1,0 +1,2 @@
+streamlit joblib pandas numpy scikit-learn
+streamlit pandas numpy joblib plotly
