@@ -8,3 +8,7 @@ SADD: Herramienta web de apoyo al diagnóstico de diabetes basada en Machine Lea
 5. Ejecuta el proyecto
 6. streamlit run app4.py
 7. Para Cortar la ejecución es CTRL+C
+
+También puede usar la app de forma web con el siguiente link público gracias a Cloud StreamLit:
+
+https://sadd-diabetes-app-prediction-nypjk9wagqqjsurzaenggm.streamlit.app/
